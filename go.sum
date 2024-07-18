@@ -1,5 +1,5 @@
-github.com/Datosystem/gofpdi v1.0.2 h1:I5WvKYoKAs3SdeGdLT6eJ8ZahBZ5rg0bFGIaOYsliqw=
-github.com/Datosystem/gofpdi v1.0.2/go.mod h1:0xaN6PFwEZQAT4YNQ/SYpC2TVeBD+dBZhCPAkB+B0w4=
+github.com/Datosystem/gofpdi v1.0.4 h1:fbA8CzdGnfdEcX7iZHHOjha2pOjgoBe4l1Z+oAMmp/g=
+github.com/Datosystem/gofpdi v1.0.4/go.mod h1:0xaN6PFwEZQAT4YNQ/SYpC2TVeBD+dBZhCPAkB+B0w4=
 github.com/boombuler/barcode v1.0.0 h1:s1TvRnXwL2xJRaccrdcBQMZxq6X7DvsMogtmJeHDdrc=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
